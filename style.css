@@ -9,7 +9,7 @@
     --neutral-clr:#cccccc;
 
     --ff-accent: 'Cinzel', serif;
-    --ff-body: 'Playfair Display', sans-serif;
+    --ff-body: 'Tinos', sans-serif;
 }
 
 body{
@@ -31,6 +31,10 @@ body{
 
 h2{
     font-size: 1.75rem;
+}
+
+.intro{
+    position: relative;
 }
 
 #image{
@@ -58,7 +62,7 @@ h2{
     font-size: 2.5rem;
     text-align: center;
     width: 70vw;
-    bottom: 45%;
+    top: 20%;
     left: 50%;
     transform: translate(-50%);
     background-color: rgba(0%,0%,0%, 0.8);
@@ -76,6 +80,7 @@ h2{
     color: #fff;
     font-size: 1.2rem;
     text-align: center;
+    font-family: 'Playfair Display', serif;
 }
 
 .text-div{
@@ -178,7 +183,6 @@ h2{
     }
 
     #title{
-        bottom: 40%;
         font-size: 3rem;
         width: 70vw;
         height: auto;
@@ -219,7 +223,6 @@ h2{
     #title{
         font-size: 3rem;
         width: 70vw;
-        height: 10vh;
     }
 
     #title span{
