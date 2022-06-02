@@ -72,8 +72,8 @@ h2{
     box-shadow: 0 0 3em rgba(0, 0, 0, 0.8);
 }
 
-#title-span2{
-    white-space: nowrap;
+#title h1{
+    max-width: 100%;
 }
 
 #intro__text{
