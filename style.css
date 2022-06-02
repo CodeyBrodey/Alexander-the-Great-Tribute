@@ -76,6 +76,10 @@ h2{
     max-width: 100%;
 }
 
+#title-span2{
+    white-space: nowrap;
+}
+
 #intro__text{
     padding-block: 3em;
     color: #fff;
