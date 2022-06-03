@@ -62,7 +62,7 @@ h2{
     font-size: 2.5rem;
     text-align: center;
     width: 70vw;
-    height: 120px;
+    max-height: 120px;
     top: 20%;
     left: 50%;
     transform: translate(-50%);
