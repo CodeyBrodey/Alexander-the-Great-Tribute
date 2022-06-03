@@ -80,6 +80,10 @@ h2{
     white-space: nowrap;
 }
 
+#title span{
+    display: block;
+}
+
 #intro__text{
     padding-block: 3em;
     color: #fff;
