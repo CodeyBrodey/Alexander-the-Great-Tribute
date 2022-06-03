@@ -73,15 +73,7 @@ h2{
 }
 
 #title h1{
-    max-height: 100%;
-}
-
-#title-span2{
-    white-space: nowrap;
-}
-
-#title span{
-    display: block;
+    max-width: 100%;
 }
 
 #intro__text{
