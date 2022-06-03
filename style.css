@@ -62,7 +62,7 @@ h2{
     font-size: 2.5rem;
     text-align: center;
     width: 70vw;
-    height: fit-content;
+    height: 120px;
     top: 20%;
     left: 50%;
     transform: translate(-50%);
@@ -186,7 +186,7 @@ h2{
     #title{
         font-size: 3rem;
         width: 70vw;
-        
+        height: fit-content;
     }
 
     #title span{
@@ -224,6 +224,7 @@ h2{
     #title{
         font-size: 3rem;
         width: 70vw;
+        height: fit-content;
         max-height: 72px;
     }
 
